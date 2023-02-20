@@ -6,8 +6,7 @@
 
 - Abriremos Block de notas escribiremos 
 if __name__ == "__main__" :
-  print("Hola mundo")
-
+print("Hola mundo")
 ![Block de notas](https://user-images.githubusercontent.com/124607325/219967135-1a04db56-d87d-4195-8fcf-1a5be133630f.png)
 
   Y procederemos a guardar el archivo con la extension .Py
@@ -28,7 +27,8 @@ Y comprobamos que se halla ejecutado
 
 - Abrimos el interprete de python y escribimos el comando 
 if __name__ == "__main__" :
-  print("Hola mundo")
+print("Hola mundo")
+
   
  -Al escrbir el codigo , oprimimos Enter dos veces y se ejecutara 
  
@@ -38,7 +38,8 @@ if __name__ == "__main__" :
 
 - Abrimos un archivo en lenguaje python, Colocamos el comando
 if __name__ == "__main__" :
-  print("Hola mundo")
+print("Hola mundo")
+
  
   ![VSCODE](https://user-images.githubusercontent.com/124607325/219987359-96a77405-40e3-4691-97ad-4d42a8ddb59e.png)
   
